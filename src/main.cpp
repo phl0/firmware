@@ -152,7 +152,7 @@ void setup() {
   }
  
   dac_cosine_enable(DAC_CHANNEL_1);
-  dac_frequency_set(7, 111);
+  dac_frequency_set(7, 108);
   dac_output_enable(DAC_CHANNEL_1);
 }
 
